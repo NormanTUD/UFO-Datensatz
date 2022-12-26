@@ -28,26 +28,26 @@ names:
   23: mammatuswolke
   24: irisierende wolke
   25: morning glory cloud
-  26: fallschirm
-  27: solarballon
-  28: drachen
-  29: polarlicht
-  30: kugelwolke
-  31: regenbogen
-  32: folienballon
-  33: reentry
-  34: led-drohnen
-  35: hole punch cloud
-  36: blitz
-  37: ambosswolke
-  38: unfokussiertes objekt
-  39: starlink
-  40: satellit
-  41: paraglider
-  42: mülltüte
-  43: hubschrauber
-  44: planet
-  45: sprite
+  26: sprite
+  27: fallschirm
+  28: solarballon
+  29: drachen
+  30: polarlicht
+  31: kugelwolke
+  32: regenbogen
+  33: folienballon
+  34: reentry
+  35: led-drohnen
+  36: hole punch cloud
+  37: blitz
+  38: ambosswolke
+  39: unfokussiertes objekt
+  40: starlink
+  41: satellit
+  42: paraglider
+  43: mülltüte
+  44: hubschrauber
+  45: planet
   46: milchstraße
   47: vogelschwarm
   48: funken
@@ -58,4 +58,5 @@ names:
   53: grüner blitz
   54: fledermaus
   55: halo mond
-  56: crown flash
+  56: flogo
+  57: crown flash
