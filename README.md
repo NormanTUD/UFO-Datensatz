@@ -7,3 +7,7 @@ A dataset of the most common phenomenon that are (seemingly) seen in the sky tha
 Vielen Dank an Jörg N., die MUFON-CES, Ronalderich, Thomas G. und alle Anderen für die Mithilfe!
 
 Thanks to Jörg N., the MUFON-CES , Ronalderich, Thomas G. and everyone else who helped!
+
+# Usable models
+
+See the models folder for pretrained Pytorch and TensorFlow.js-Models.
