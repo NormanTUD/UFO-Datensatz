@@ -5,9 +5,6 @@ import argparse
 def green_msg (msg):
     print('\x1b[6;30;42m' + msg + '\x1b[0m')
 
-def red_msg (msg):
-    print('\x1b[1;37;41m' + msg + '\x1b[0m')
-
 def yellow_msg (msg):
     print('\x1b[6;30;43m' + msg + '\x1b[0m')
 
