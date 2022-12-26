@@ -27,7 +27,7 @@ cd yolov5
 pip3 install -r requirements.txt
 ```
 
-Now you can use `source ~/.yolo_env/bin/activate` to load this environment before loading the main script with `python3 example.py`.
+Now you can use `source ~/.yolo_env/bin/activate` to load this environment before loading the main script with `python3 example.py --img imagefile.jpg`.
 
 ## Explanation of the results
 
