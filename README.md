@@ -1,4 +1,4 @@
-# UFO-Datensatz
+# UFO-Detector
 
 Ein Datensatz der häufigsten Phänomene am Himmel oder in der Gegend des Himmels, die oft als UFO fehlinterpretiert werden im YoloV5-Format.
 
