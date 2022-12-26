@@ -91,3 +91,7 @@ Each line (except the first one) is one bounding box. The `xcenter` is the absol
 The `xyxy` does not return width and height, but `xmin`/`xmax` and `ymin`/`ymax`, each being the outer points of the bounding box. `class`, `confidence` and `name` are the same.
 
 Each bounding box generates a new subkey in each associative array, named by it's number (sadly, as string by default).
+
+# Continue
+
+Feel free to play around with this and create from it whatever you want. But keep in mind that you have to show our disclaimer (see LICENSE in the root folder) if you publish them somehow.
