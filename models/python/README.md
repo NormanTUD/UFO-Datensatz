@@ -42,5 +42,6 @@ Now you can use `source ~/.yolo_env/bin/activate` to load this environment befor
 
 Each line (except the first one) is one bounding box. The `xcenter` is the absolute position of the center on the X-Axis on the image, the ycenter the vertical center (see image). `width` and `height` are (obviously) the width and height of the bounding box. `confidence` is "how sure" the network is (see it as a score of similiarity to other images the network has been trained on in the same category). `class` is the number of the category, and `name` the name of the category.
 
-
 ![Bounding Box Format](bbox_format.jpg)
+
+(Source: https://github.com/ultralytics/yolov5/issues/2293)
