@@ -1,1 +1,0 @@
-Position is undefined for ballon-5RR0TvYXTYI-00060.jpgxywh=pixel:720,23.33331298828125,118,98
